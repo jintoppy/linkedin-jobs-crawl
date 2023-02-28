@@ -1,0 +1,7 @@
+{
+	"actorSpecification": 1,
+	"name": "linked-in-jobsearch",
+	"version": "0.0",
+	"buildTag": "latest",
+	"environmentVariables": {}
+}
